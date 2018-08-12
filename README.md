@@ -120,12 +120,23 @@ The automated tests depend on [Phantomjs](http://phantomjs.org/). Make sure you 
 
 ## Want to contact us or Need help?
 Contact us through
+
 [Telegram](https://t.me/hybroteam)
+
 [Community(Coming Soon)](https://community.hybro.io)
+
 [Website](https://hybro.io)
+
 [WhatsApp](https://api.whatsapp.com/send?phone=85264723740#)
+
 [Instagram](https://www.instagram.com/hybroteam)
+
 [Facebook](https://www.facebook.com/hybroteam)
+
 [Email](mailto:info@hybro.io)
+
 [YouTube](https://www.youtube.com/channel/UCbdi9gQfANUwuhxhuF8mYQQ/)
+
 [Twitter](https://twitter.com/hybroteam)
+
+
